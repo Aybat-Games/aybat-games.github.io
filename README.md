@@ -19,4 +19,4 @@ We plan to expand beyond these projects into other kinds of developer tools and 
 About This Repository
 This repository contains the source files for the official Aybat Games website, published using GitHub Pages.
 
-For project information and updates, visit https://aybat-games.github.io/.
+For project information and updates, visit https://aybatgames.github.io/.
