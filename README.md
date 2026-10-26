@@ -1,21 +1,22 @@
-# Aybat Games – GitHub Pages Starter
+Aybat Games
+Build More. Create Freely.
 
-A free, no-domain-needed portfolio starter, prepared for Unity Asset Store publisher verification.
+Aybat Games is an independent game development and Unity tools publisher. We create modular frameworks, reusable systems, and practical assets that help developers build, experiment, and bring their ideas to life.
 
-## IMPORTANT BEFORE PUBLISHING
-- The email `aybatgames@gmail.com` appears on the Contact page. **Confirm you own it and that it receives messages**. If you do not, replace it in `contact.html` with your active brand support email before publishing.
-- Project statuses are drafts; adjust them if a project is publicly released or its status changes.
-- This is an independent portfolio, not a checkout or commercial SaaS website.
+Visit our website · Contact
+What We Create
+- Unity tools and editor extensions — utilities that streamline development workflows.
+- Modular gameplay frameworks — adaptable systems designed for a variety of projects.
+- Reusable assets and components — practical building blocks for interactive experiences.
+- Developer-focused solutions — tools built with maintainability, flexibility, and usability in mind.
+Projects
+Tactical Vision Framework
+Our current Unity asset project, focused on configurable optics, vision sensors, night vision, thermal imaging, and rendering workflows.
+AybatOS & Device Framework
+A future framework planned around modular device and interface systems for Unity.
 
-## Deploy (suggested URL `https://aybatgames.github.io`)
-1. Open https://github.com/new
-2. Create a public repository named `<YOUR-GITHUB-USERNAME>.github.io` (e.g., `aybatgames.github.io` **only if** that GitHub username is yours).
-3. Extract this archive and upload `index.html`, `contact.html`, `.nojekyll`, and the `assets` folder to the repository **root**.
-4. Under Settings → Pages → Build and deployment, choose `Deploy from a branch`; select `main` and `/(root)` and save.
-5. Open `https://<YOUR-GITHUB-USERNAME>.github.io` after GitHub Pages finishes publishing.
-6. Test both the homepage and Contact page and send a test email; then paste **the real working homepage address** into Unity Publisher Portal → Profile → Website.
-7. Maintain project statuses/contact details as they change.
+We plan to expand beyond these projects into other kinds of developer tools and game development assets.
+About This Repository
+This repository contains the source files for the official Aybat Games website, published using GitHub Pages.
 
-Official instructions: https://docs.github.com/en/pages/quickstart
-
-All brand images included here were based on the Aybat Games media files prepared in this conversation.
+For project information and updates, visit https://aybat-games.github.io/.
